@@ -6,7 +6,7 @@ let ctlatlongdata = {};
 let BASE_URL =
   "https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid=dc52495632d45ddadf2a48104af1a6f9";
 // Fetch JSON data
-fetch("data.json")
+fetch("/data.json")
   .then((response) => response.json())
   .then((jsonData) => {
     data = jsonData; // Since the JSON starts with an array
