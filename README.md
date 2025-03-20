@@ -17,10 +17,10 @@ The **Weather Report App** is a simple yet powerful web application that allows 
 ## 🎮 Live Demo
 🔗 **[Try the App](https://incredible-strudel-52e713.netlify.app/)**
 
-## 📸 Screenshots
+## 🗈 Screenshots
 Here is how the Weather Report App looks:
 
-![Weather Report App](screenshot/"Screenshot (229).png")
+![Weather Report App](screenshot.png)
 
 ## 🔧 Installation & Setup
 1. **Clone the repository:**
@@ -31,7 +31,7 @@ Here is how the Weather Report App looks:
 2. **Open `index.html` in a browser**
 3. **Enjoy real-time weather updates!**
 
-## 💽 API Configuration
+## 📍 API Configuration
 - Replace `YOUR_API_KEY` in `app.js` with your **OpenWeather API Key**:
   ```js
   let BASE_URL = "https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid=YOUR_API_KEY";
@@ -44,7 +44,7 @@ Special thanks to **[Darshan Gada (@dr5hn)](https://github.com/dr5hn)** for prov
 This project is open-source and available under the **MIT License**.
 
 ## 🌍 Connect With Me
-- 💼 **LinkedIn:** [Mohd Zeeshan Quraishi](https://www.linkedin.com/in/mohd-zeeshan-quraishi-5478632ba)
+- 🎼 **LinkedIn:** [Mohd Zeeshan Quraishi](https://www.linkedin.com/in/mohd-zeeshan-quraishi-5478632ba)
 - 🐥 **Twitter:** [@8_Zeeshan_1](https://x.com/8_Zeeshan_1)
 - 👤 **GitHub:** [8zeeshan1](https://github.com/8zeeshan1)
 
