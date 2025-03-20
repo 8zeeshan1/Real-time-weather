@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Weather Report</title>
+  </head>
+  <body>
+    <h1>Weather Report</h1>
+    <form action>
+      <div class="container">
+        <div class="dropdown">
+          <div class="country">
+            <h2>Country</h2>
+            <select name="country">
+              <option value="Select a country">Select a country</option>
+            </select>
+          </div>
+
+          <div class="state">
+            <h2>State</h2>
+            <select name="state">
+              <option>Select the State</option>
+            </select>
+          </div>
+
+          <div class="city">
+            <h2>City</h2>
+            <select name="city">
+              <option>Select The City</option>
+            </select>
+          </div>
+        </div>
+        <button type="submit">Get Report</button>
+      </div>
+      <hr />
+      <h2 class="report">Report</h2>
+      <h3 id="temp">Temperature:</h3>
+      <h3 id="humidity">humidity:</h3>
+      <h3 id="atmprsr">Pressure:</h3>
+      <h3 id="visibility">Visibility:</h3>
+      <h3 id="weather">Weather:</h3>
+    </form>
+
+    <script src="app.js"></script>
+  </body>
+</html>
