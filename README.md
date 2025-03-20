@@ -17,7 +17,7 @@ The **Weather Report App** is a simple yet powerful web application that allows 
 ## 🎮 Live Demo
 🔗 **[Try the App](https://incredible-strudel-52e713.netlify.app/)**
 
-## 🗈 Screenshots
+## 🗈 Screenshot
 Here is how the Weather Report App looks:
 
 ![Weather Report App](screenshot.png)
